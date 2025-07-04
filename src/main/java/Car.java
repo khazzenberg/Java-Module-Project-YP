@@ -1,8 +1,6 @@
 public class Car {
-    //Название автомобиля
-    String name;
-    //Скорость автомобиля
-    int speed;
+    final String name;
+    final int speed;
 
     //Конструктор, который в качестве аргументов принимает
     //название (name) и скорость (speed)
